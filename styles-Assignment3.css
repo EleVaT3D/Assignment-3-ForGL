@@ -42,8 +42,23 @@ footer{
 	width: 200px;
 }
 */
-.article-text{
+/*.article-text{
 	display: inline-block;
+}
+*/
+#pg3section{
+	background-color: #E6E6E6;
+	width: 1365px;
+	height: 570px;
+}
+#map{
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#contact{
+	display: inline-block;
+	margin-bottom: 300px;
 }
 #current{
 	color: #EE4036;
@@ -61,11 +76,6 @@ footer{
 #blackp{
 	color: 000000;
 }
-#contact{
-	position: relative;
-	left: 500px;
-}
-
 #footerline{
 	margin-left: 20px;
 }
